@@ -10,28 +10,28 @@ It’s clearly designed to manipulate AI CV screeners...# Signal Log
 
 ---
 
-**Author:**  
-**Platform:**  
+### Pain Signal
+AI screening systems can be manipulated, which undermines trust in automated hiring and degrades signal quality across candidate evaluation.
 
-**Raw Text:**  
-(paste full post)
+### Authority Signal
+Founder-level perspective sharing a real observed case within hiring + AI workflows—credible and relevant to current industry concerns.
 
-**Pain Signal:**  
-(what problem is revealed)
+### Opportunity
+High-engagement topic (AI + hiring integrity) with clear tension between automation and trust. Strong opening to elevate conversation from tactics to system-level control and governance.
 
-**Authority Signal:**  
-(why they matter)
+### Comment Draft
+The interesting part isn’t that candidates are trying to manipulate the system—it’s that the system can be manipulated at all.
 
-**Opportunity:**  
-(why engage)
+That usually means the evaluation layer and the decision layer aren’t tightly bound. You can pass validation in one state and execute in another.
 
-**Comment Draft:**  
-(your response)
+That’s where trust breaks—not at the model, but at the commit boundary.
 
-**DM Follow-up:**  
-(optional)
+Curious—when something like this gets flagged, who actually holds stop-authority in your process, and how close is that to execution?
 
-**Outcome:**  
-(blank for now)
+### DM Follow-up
+Appreciate the discussion on that post—this is exactly where most systems look fine in theory but fail at the transition point.
 
----
+I’ve been mapping how evaluation and execution drift apart in real workflows. If you’re open, I’d be curious how your team handles stop-authority when something passes screening but still feels off.
+
+### Outcome
+Pending
