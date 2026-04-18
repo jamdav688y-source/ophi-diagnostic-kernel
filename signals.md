@@ -20,7 +20,13 @@ Founder-level perspective sharing a real observed case within hiring + AI workfl
 High-engagement topic (AI + hiring integrity) with clear tension between automation and trust. Strong opening to elevate conversation from tactics to system-level control and governance.
 
 ### Comment Draft
-The interesting part isn’t that candidates are trying to manipulate the system—it’s that the system can be manipulated at all.
+The interesting part isn’t that candidates are trying to manipulate the system—it’s that the system allows it.
+
+That usually points to a gap between evaluation and execution. You can validate one state… and run another.
+
+That’s where trust actually breaks—not at the model, but at the commit boundary.
+
+When something like this gets flagged, who holds stop-authority in your process—and is it close enough to execution to matter?
 
 That usually means the evaluation layer and the decision layer aren’t tightly bound. You can pass validation in one state and execute in another.
 
