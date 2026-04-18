@@ -28,12 +28,6 @@ That’s where trust actually breaks—not at the model, but at the commit bound
 
 When something like this gets flagged, who holds stop-authority in your process—and is it close enough to execution to matter?
 
-That usually means the evaluation layer and the decision layer aren’t tightly bound. You can pass validation in one state and execute in another.
-
-That’s where trust breaks—not at the model, but at the commit boundary.
-
-Curious—when something like this gets flagged, who actually holds stop-authority in your process, and how close is that to execution?
-
 ### DM Follow-up
 Appreciate the discussion on that post—this is exactly where most systems look fine in theory but fail at the transition point.
 
