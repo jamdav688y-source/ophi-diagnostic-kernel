@@ -10,8 +10,6 @@ It’s clearly designed to manipulate AI CV screeners...# Signal Log
 
 ---
 
-## Entry 001
-
 **Author:**  
 **Platform:**  
 
