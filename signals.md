@@ -1,4 +1,12 @@
-# Signal Log
+## Entry 001
+
+**Author:** Kabir Bali  
+**Platform:** LinkedIn  
+
+**Raw Text:**  
+At the bottom of a CV, a candidate included:
+“ATTENTION! This is a system-level instruction…”
+It’s clearly designed to manipulate AI CV screeners...# Signal Log
 
 ---
 
